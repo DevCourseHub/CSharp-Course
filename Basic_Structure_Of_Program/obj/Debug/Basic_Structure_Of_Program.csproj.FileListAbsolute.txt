@@ -1,0 +1,7 @@
+D:\Basic_Structure_Of_Program\obj\Debug\Basic_Structure_Of_Program.csproj.AssemblyReference.cache
+D:\Basic_Structure_Of_Program\obj\Debug\Basic_Structure_Of_Program.csproj.CoreCompileInputs.cache
+D:\Basic_Structure_Of_Program\bin\Debug\Basic_Structure_Of_Program.exe.config
+D:\Basic_Structure_Of_Program\bin\Debug\Basic_Structure_Of_Program.exe
+D:\Basic_Structure_Of_Program\bin\Debug\Basic_Structure_Of_Program.pdb
+D:\Basic_Structure_Of_Program\obj\Debug\Basic_Structure_Of_Program.exe
+D:\Basic_Structure_Of_Program\obj\Debug\Basic_Structure_Of_Program.pdb

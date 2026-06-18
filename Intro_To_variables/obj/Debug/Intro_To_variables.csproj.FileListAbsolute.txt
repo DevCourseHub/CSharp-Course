@@ -1,0 +1,7 @@
+D:\Intro_To_variables\bin\Debug\Intro_To_variables.exe.config
+D:\Intro_To_variables\bin\Debug\Intro_To_variables.exe
+D:\Intro_To_variables\bin\Debug\Intro_To_variables.pdb
+D:\Intro_To_variables\obj\Debug\Intro_To_variables.csproj.AssemblyReference.cache
+D:\Intro_To_variables\obj\Debug\Intro_To_variables.csproj.CoreCompileInputs.cache
+D:\Intro_To_variables\obj\Debug\Intro_To_variables.exe
+D:\Intro_To_variables\obj\Debug\Intro_To_variables.pdb
