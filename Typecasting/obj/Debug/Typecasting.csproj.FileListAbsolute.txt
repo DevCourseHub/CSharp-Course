@@ -1,0 +1,7 @@
+D:\C# Course\CSharp Course\Typecasting\bin\Debug\Typecasting.exe.config
+D:\C# Course\CSharp Course\Typecasting\bin\Debug\Typecasting.exe
+D:\C# Course\CSharp Course\Typecasting\bin\Debug\Typecasting.pdb
+D:\C# Course\CSharp Course\Typecasting\obj\Debug\Typecasting.csproj.AssemblyReference.cache
+D:\C# Course\CSharp Course\Typecasting\obj\Debug\Typecasting.csproj.CoreCompileInputs.cache
+D:\C# Course\CSharp Course\Typecasting\obj\Debug\Typecasting.exe
+D:\C# Course\CSharp Course\Typecasting\obj\Debug\Typecasting.pdb
